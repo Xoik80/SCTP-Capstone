@@ -1,4 +1,4 @@
-# SCTP-Capstone
+# SCTP-Capstone "Fibre" (EUR/USD) forex analysis
 2024 SCTP Capstone Project on Fibre Forex
 # My first capstone
 
