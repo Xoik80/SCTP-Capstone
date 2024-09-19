@@ -8,7 +8,7 @@
 
 Description of dataset
 
-(Para about your findings and techniques you used) "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+(Para about your findings and techniques you used) This is the dataset from www.fxblue.com where collected data from MT4 and the collection started since Oct 2023. In the dataset, each Magic No. represents to an EA.
 
 <details>
 <summary><b>Foldable hidden section</b></summary>
@@ -19,7 +19,6 @@ Any folded content here. It requires an empty line just above it!
 
 
 <details>
-  <summary>Click me</summary>
   
   ### Heading
   1. Foo
