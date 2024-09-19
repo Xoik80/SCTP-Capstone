@@ -2,7 +2,7 @@
 2024 SCTP Capstone Project on Fibre Forex
 # My first capstone
 
-![Screenshot of dashboard]("C:\KWM\NTUCLearning Hub\AI ML Developer Capstone Project\Graph.jpg")
+![Screenshot of dashboard](https://i.imgur.com/FupHsu2.jpeg)
 
 [Link to dataset](http://localhost:8888/files/Capstone%20Project/Forex.csv?_xsrf=2%7C7162a694%7Cc9dd77cf1061864d6ee2052886214fe6%7C1726742993)
 
