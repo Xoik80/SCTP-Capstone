@@ -4,7 +4,7 @@
 
 ![Screenshot of dashboard](https://i.imgur.com/UujCjhB.png)
 
-[Link to dataset](https://people.sc.fsu.edu/~jburkardt/data/csv/addresses.csv)
+[Link to dataset](http://localhost:8888/files/Capstone%20Project/Forex.csv?_xsrf=2%7C7162a694%7Cc9dd77cf1061864d6ee2052886214fe6%7C1726742993)
 
 Description of dataset
 
